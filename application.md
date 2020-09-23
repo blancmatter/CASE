@@ -33,7 +33,7 @@ You may wish to include:
 
 * interactions with other researchers and staff;
 
-opportunities to participate in interdisciplinary team work;
+* opportunities to participate in interdisciplinary team work;
 
 * current infrastructure, expertise, facilities and technologies available in the department/group and the organisation;
 
@@ -112,10 +112,8 @@ Clearly show the roles that the academic department and the collaborating orga
 Provide details of how you will monitor the student and their training needs during the course of the studentship, including:
 
 * Supervision arrangements, assessment arrangements, frequency of supervisor/student contact and the involvement of staff other than the principal academic supervisor in the supervisory process (if appropriate);
-*  
 
 * How you will manage the partnership with the industrial company to ensure high quality supervision of the student and the proper monitoring of student progress;
-*  
 
 * Opportunity for students to provide feedback.
 
@@ -123,21 +121,15 @@ Provide details of how you will monitor the student and their training needs dur
 Explain how the collaboration will provide the student with a challenging research training experience, within a context of a mutually beneficial research collaboration between the student, academic and non-academic/industry partner. Explain how the project will be managed in order to maximise the benefit to all parties in terms of student training and scientific output.
 
 * Provide the unique qualities of the collaboration. How will the collaboration benefit the proposed project? Can the project be done without the collaboration?
-*  
 
 * How will the collaboration benefit the training experience of the student?
-*  
 
 * How will the collaboration benefit both the academic and non-academic partner?
-*  
 
 * Give details of what IPR arrangements are in place.
-*  
 
 * Provide details of specific training that will only be carried out when the student is on placement at the non-academic partner which could not be carried out at the academic partner .e.g. Health & Safety, marketing & sales, production.
-*  
 
 * Give comprehensive and technical details of the anticipated work the student will complete while at the non-academic partner – refer to timelines if appropriate.
-*  
 
 * Give details of any commercial agreements in place
